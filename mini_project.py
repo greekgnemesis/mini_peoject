@@ -1,6 +1,7 @@
 import random
 import sys
-
+ 
+    
 start = input(" TO START THE GAME TYPE 'yes' TO QUIT TYPE 'no'/n ")
 if start.lower() == "no":
     sys.exit()
